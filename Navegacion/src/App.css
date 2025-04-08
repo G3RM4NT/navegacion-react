@@ -4,3 +4,20 @@
   padding: 2rem;
   text-align: center;
 }
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.neon-card {
+  background-color: black; /* Fondo negro */
+  border: 2px solid #00ffff; /* Borde azul neón */
+  box-shadow: 0 0 10px #00ffff; /* Resplandor neón */
+  color: white; /* Color del texto */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 20px; /* Espaciado interno */
+}
